@@ -1,3 +1,9 @@
+##Live Demo
+https://image-filter-app-6lvcfhqccqdgwtmscb6vfm.streamlit.app/
+
+---
+
+
 # Image Filter App using Streamlit
 
 This is a simple web-based image filter application built using **Python and Streamlit**.  
@@ -64,3 +70,4 @@ After running the command, a browser window will open where you can upload an im
 ## Author
 Harshit Panwar  
 B.Tech – Artificial Intelligence & Machine Learning
+
